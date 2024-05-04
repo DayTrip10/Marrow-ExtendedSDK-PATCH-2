@@ -1,6 +1,6 @@
 # Fork Info
 
-This is a MODIFIED FORK of the Marrow-ExtendedSDK, it contains fixed scripts which are functional at this time. (Patch 2 of BL). I didnt bother moving the folders that the scripts were in because I am incredibly lazy, but it doesnt matter, itll still work fine.
+This is a MODIFIED FORK of the Marrow-ExtendedSDK, it contains fixed scripts which are functional at this time. (Patch 3 of BL). I didnt bother moving the folders that the scripts were in because I am incredibly lazy, but it doesnt matter, itll still work fine.
 
 THIS ALSO INCLUDES PUPPETMASTER SCRIPTS. They're all dummy scripts, I believe they werent included in the original Extended SDK because of fear of the PuppetMaster people not being alright with it, but it should be fine considering all the scripts are empty anyway (Besides variable names and empty methods).
 
